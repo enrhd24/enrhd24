@@ -3,3 +3,4 @@
 2. jekyll + Theme
 3. md + w git.io blog
 4. CS__논리회로
+5. computer architecture
