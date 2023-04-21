@@ -17,3 +17,11 @@
 - [4] 매일 심리학 공부<br>
 - [5] 상식을 위한 일생사<br>
 - [6] MCU를 이해할 "컴퓨터 구조"<br>
+
+### Atemga328 Study List
+- [1] AVR이론<br>
+- [2] MiroStduioCode<br>
+- [3] 데이터 통신<br>
+- [4] 컴퓨터네트워크<br>
+- [5] 디지털신호 및 제어신호<br>
+- [6] DataNetWorking Feedback<br>
